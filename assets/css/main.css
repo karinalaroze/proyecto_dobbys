@@ -1,0 +1,210 @@
+body{
+	background-color: lightgrey;
+	z-index: -1;
+}
+
+nav{
+	z-index: -1;
+	background-color: pink;
+	height: 90px;
+}
+
+.base{
+	width: 70%;
+	height: 70%;
+	position: absolute;
+	background-color: white;
+	top: 51px;
+	z-index: 2;
+	border:1px solid grey;
+	margin-left: 10%;
+}
+
+.nombres{
+	width: 380px;
+	height: 70%;
+	position: absolute;
+	left: 131px;
+	top: 51px;
+	z-index: 2;
+	border:1px solid grey;
+}
+
+.parteuno{
+	background-color: lightgrey;
+	width: 380px;
+	height: 50px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 131px;
+	top: 51px;
+	z-index: 2;
+}
+
+.buscar{
+	width: 380px;
+	height: 50px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 131px;
+	top: 101px;
+	z-index: 2;
+}
+
+#encontrar{
+	width: 80%;
+	height: 25px;
+	margin-left: 40px;
+	margin-top: 13px;
+	border: 1px solid grey;
+}
+
+.partedos{
+	background-color: lightgrey;
+	width: 528px;
+	height: 50px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 511px;
+	top: 51px;
+	z-index: 2;
+}
+
+.texto{
+	width: 528px;
+	height: 425px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 511px;
+	top: 101px;
+	z-index: 2;
+}
+
+.mensaje{
+	width: 528px;
+	height: 50px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 511px;
+	top: 476px;
+	z-index: 2;
+}
+
+#mensajes{
+	width: 80%;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+#laboratoria{
+	width: 40px;
+	height: 40px;
+	border-radius: 40px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.partedos h6{
+	margin-top: -34px;
+	margin-left: 60px;
+}
+
+.nombre1{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 99px;
+	z-index: 2;
+}
+
+.nombre2{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 139px;
+	z-index: 2;
+}
+
+.nombre3{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 179px;
+	z-index: 2;
+}
+.nombre4{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 219px;
+	z-index: 2;
+}
+
+.nombre5{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 259px;
+	z-index: 2;
+}
+.nombre6{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 299px;
+	z-index: 2;
+}
+
+.nombre7{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 339px;
+	z-index: 2;
+}
+
+.nombre8{
+	width: 380px;
+	height: 40px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 379px;
+	z-index: 2;
+}
+.nombre9{
+	width: 380px;
+	height: 52px;
+	border: 1px solid grey;
+	position: absolute;
+	left: 0px;
+	top: 419px;
+	z-index: 2;
+}
+
+.nombres p{
+	margin-top: -27px;
+	margin-left: 75px;
+}
+
+.nombres img{
+	width: 30px;
+	height: 30px;
+	border-radius: 30px;
+	margin-top: 3px;
+	margin-left: 4px;
+}
